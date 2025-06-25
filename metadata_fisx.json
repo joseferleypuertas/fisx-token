@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "description": "Sirve como representación digital de activos agropecuarios y deportivos en una cadena de bloques. Desarrolla proyectos agrícolas y deportivos funcionales para la existencia humana.",
+    "name": "Financiamiento Internacional Sostenible X",
+    "symbol": "FISX",
+    "decimals": 8,
+    "website": "https://fisoccer.blogspot.com/",
+    "token": {
+        "category": "059aeed168f0287226f9498bb5bd2f4dfdec848570fac7a9342e79b48262fb87"
+    },
+    "issuer": {
+        "name": "GREMIO AGRICOLA Y EMPRESARIAL SAS"
+    }
+}
