@@ -1,24 +1,27 @@
-# FISX Token — Financiamiento Internacional Sostenible X
-
-![FISX Logo](logo_fisx.png)
-
-**FISX** es un token digital emitido en la blockchain de Bitcoin Cash, diseñado para representar activos agropecuarios y deportivos. Su propósito es facilitar el financiamiento de iniciativas sostenibles y funcionales para la vida humana en el ámbito rural y deportivo.
-
----
-
-### 🔹 Detalles técnicos
-
-- **Nombre:** FISX  
-- **Símbolo:** FISX  
-- **Decimales:** 8  
-- **Supply inicial:** 420,000,000 unidades  
-- **Blockchain:** Bitcoin Cash (CashTokens)  
-- **Emisor:** GREMIO AGRÍCOLA Y EMPRESARIAL S.A.S.  
-- **Sitio Web:** [https://fisoccer.blogspot.com/](https://fisoccer.blogspot.com/)
-
----
-
-### 🔹 Enlaces
-
-- [Ver metadata JSON](./metadata_fisx_with_logo.json)
-- [Logo oficial](./logo_fisx.png)
+{
+  "version": "1.0",
+  "protocol": "BCMR",
+  "registryIdentityKey": "none",
+  "identities": {
+    "FISX": {
+      "token": {
+        "category": "059aeed168f0287226f9498bb5bd2f4fdec848570fac7a9342e79b48e262fb87",
+        "symbol": "FISX",
+        "name": "FISX Token",
+        "decimals": 8,
+        "icon": "https://raw.githubusercontent.com/joseferleypuertas/fisx-token/main/logo_fisx.png"
+      },
+      "name": "FISX — Financiamiento Internacional Sostenible X",
+      "description": "FISX es un token digital emitido en la blockchain de Bitcoin Cash, diseñado para representar activos agropecuarios y deportivos. Su propósito es facilitar el financiamiento de iniciativas sostenibles y funcionales para la vida humana en el ámbito rural y deportivo.",
+      "paymentAddress": "bitcoincash:qqf4ruxq29a00ld3v2tdkrj7lzxvgg3rlvpguygqxv",
+      "web": {
+        "url": "https://fisoccer.blogspot.com/"
+      }
+    }
+  },
+  "meta": {
+    "created": "2025-06-25T00:00:00Z",
+    "updated": "2025-06-25T00:00:00Z",
+    "author": "GREMIO AGRÍCOLA Y EMPRESARIAL S.A.S."
+  }
+}
